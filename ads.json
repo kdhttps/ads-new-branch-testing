@@ -1,1 +1,17 @@
-{}
+{
+    "firstnew": {
+        "projectName": "firstnew",
+        "description": "first",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-new-branch-testing",
+        "githubUri": "https://github.com/kdhttps/ads-new-branch-testing",
+        "license": "MIT",
+        "lastUpdated": "1695130889780",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
+    }
+}
