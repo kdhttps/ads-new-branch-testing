@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "kdhttps.grinning.co.basic": {}
+            "kdhttps.grinning.co.basic": {},
+            "co.first": {}
         }
     },
     "secondnew": {
