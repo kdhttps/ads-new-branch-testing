@@ -16,5 +16,20 @@
         "configs": {
             "kdhttps.grinning.co.basic": {}
         }
+    },
+    "secondnew": {
+        "projectName": "secondnew",
+        "description": "ds",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-new-branch-testing",
+        "githubUri": "https://github.com/kdhttps/ads-new-branch-testing",
+        "license": "MIT",
+        "lastUpdated": "1695220263670",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
     }
 }
