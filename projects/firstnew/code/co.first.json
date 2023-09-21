@@ -65,10 +65,11 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "fluent-mdl2:trigger-approval",
-					"flowFileName": "co.basic.flow",
+					"flowFileName": "co.basic",
 					"asssignedVariableName": "obj",
-					"flowname": ""
-				}
+					"flowname": "co.first"
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
