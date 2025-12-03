@@ -14,8 +14,10 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "kdhttps.grinning.co.basic": {}
-        }
+            "kdhttps.grinning.co.basic": {},
+            "co.second": {}
+        },
+        "name": "firstnew"
     },
     "secondnew": {
         "projectName": "secondnew",
