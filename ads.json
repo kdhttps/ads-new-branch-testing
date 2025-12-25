@@ -33,5 +33,21 @@
             "openid-connect"
         ],
         "noDirectLaunch": []
+    },
+    "thirdnew": {
+        "projectName": "thirdnew",
+        "description": "third test without permission in app",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-new-branch-testing",
+        "githubUri": "https://github.com/kdhttps/ads-new-branch-testing",
+        "license": "apache-2.0",
+        "lastUpdated": "1766652361514",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
